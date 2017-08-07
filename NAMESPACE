@@ -50,6 +50,12 @@ export(diagonal)
 export(bhatt.coeff)
 #export(sequential.test)
 export(null.test)
+export(model.test)
+export(model.test.OU)
+export(model.test.BM)
+export(model.test.EB)
+export(model.test.Trend)
+export(model.test.Shift)
 
 ##dispRity object utilities
 export(make.dispRity)
